@@ -1,0 +1,128 @@
+/*AKSHEY CSS START*/
+#sb_instagram{padding-bottom: 0px !important;}
+#insta_block_home p{color: #000 !important;margin-bottom:0px;}
+#insta_block_home h2 {color: #000;margin-bottom: -26px;}
+#insta_block_home {margin: 0px 100px;}
+/*AKSHEY CSS END*/
+#MedP{margin-top:-50px ;}
+#portfolio_banner {margin-top:-97px ;}
+.project-content .project-info {display: none;}
+.project-content .project-description {width: 100%;}
+.fusion-flexslider .slides img {margin: 0 auto;}
+.sidebar .widget_categories li a::before{content: none !important;}
+.sidebar .widget_categories li.current-cat a, .sidebar .widget_nav_menu li.current-menu-item a{color:#0081C6 !important;font-weight:bold;}
+.sidebar .widget_categories li.current-cat a:hover, .sidebar .widget_nav_menu li.current-menu-item a:hover{color:#0081C6 !important;font-weight:bold;}
+#heaT { background: #f2f2f2 none repeat scroll 0 0;height: 14px;list-style-type: none;margin-top: 6px !important;}
+.fusion-secondary-header .fusion-alignright {background: #f2f2f2 none repeat scroll 0 0 !important;}
+#heaT li {float: left;line-height: 20px;margin-left: 7px !important;margin-right: 7px !important;min-width: 16px;padding-left: 0;padding-right: 0;}
+.style2{width: 95%; line-height: 25px; margin-bottom: 20px; border-collapse: separate; border-spacing: 1px;}
+.style2 th{background: #67B3E3 none repeat scroll 0% 0%;color: #FFF;font-size: 18px;text-align: center !important;}
+.style2 td {padding: 4px 8px;background: #F8F8F8 none repeat scroll 0% 0%;text-align: center !important;}
+.fusion-page-title-captions {clear: both !important;display: block !important;vertical-align: middle;width: 100% !important;}
+.fusion-breadcrumbs span {font-size: 12px !important;}
+.fusion-page-title-bar {background-color: #ffffff !important;padding-top: 10px !important;}
+.fusion-page-title-bar {padding-top: 10px;border-color: #fff !important;}
+.fusion-page-title-secondary {display: block !important;float: left !important;text-align: left !important;vertical-align: middle;width: 100%;}
+.fusion-page-title-bar h1 {color: #2a3990 !important;font-size: 30px !important;font-weight: 500 !important;}
+.sidebar .widget_nav_menu li a::before{content: none !important;}
+.fusion-testimonials.classic .testimonial-image {max-width: 100px !important;}
+.rpwe-block li .more-link {color: #67b3e3;text-transform: uppercase;}
+.rpwe-block li h3{margin: 0 0 7px;}
+#Photography .alignright{height: 321px; }
+#Photography .wp-caption-text{margin-bottom: 30px;padding-bottom: 10px; padding-top: 5px;}
+#attachment_9843 img{height: 287px !important;}
+#email h2 a:hover{color:#444 !important; text-decoration: none !important;}
+#email h2{color:#444 !important; }
+#Media h1 a:hover{color:#67B3E3 !important;}
+#Radiology ul{list-style-type: none;}
+#Radiology p{line-height: 20px;}
+.fusion-tabs .nav-tabs li { width: 200px !important;}
+.fusion-tabs .nav-tabs{border-top:4px solid rgb(236, 236, 236) !important;}
+#Magento h1{color:#444 !important; font-weight: 400 !important;}
+#Logo h1{color:#444 !important; font-weight: 400 !important;line-height: 34px !important;}
+#blockquote .button:hover, .sidebar .button:hover{text-decoration:none !important;color:#ffffff !important;}
+.post-content a:hover{text-decoration: underline; color:#0080C5 !important}
+#tab .fusion-tabs.vertical-tabs{ width: 150% !important;margin-left: 30px !important;}
+#Wordpress .post-content h1{color:#444 !important;font-weight: 400 !important;}
+#Print h1{color:#444 !important;font-weight: 400 !important;}
+.fusion-main-menu .sub-menu{border-top: 3px solid #2b3990 !important;}
+#markting h1{font-size: 26px !important;color:#444 !important; font-weight: 400 !important;}
+#blockquote .button{margin: 2px 30px 20px !important;;padding: 10px 15px 8px !important;font-weight: 900 !important;border-radius: 0px !important;margin-right: -15px !important;}
+#blockquote .fusion-tabs.fusion-tabs-1 .nav-tabs{margin-top: 5px !important;    border-top:4px solid rgb(236, 236, 236) !important;}
+#blockquote .fusion-tabs.vertical-tabs .tab-pane{ padding:10px !important; margin-top: -25px !important;margin-left: 70px;}
+#blockquote .nav-tabs > li .fusion-tab-heading{ color:#777 !important }
+#blockquote .fusion-tabs.vertical-tabs{ width: 150% !important;margin-right: 30px !important;}
+#Focus h2{margin: 0px 0px 26px; color:#444 }
+#Focus ul{list-style-type: none;}
+#Medical .aligncenter {margin-bottom: 0px !important;}
+#spamark .alignright{margin-top: 40px !important;}
+#spamark h3{padding-left:10px !important; font-size:20px !important; color:#444 !important;font-style: normal !important;}
+#google h1{font-size: 26px !important;font-weight: 600 !important;}
+#Fashionpage  h1{font-weight: 400 !important;}
+#Fashionpage p{font-size: 12px !important;line-height: 20px;}
+#SEO h1{font-weight: 400 !important;}
+#Stationery h1{font-weight: 400 !important;}
+#Real h1{font-weight: 400 !important;}
+#Dental h1{font-size: 26px !important;}
+#Dental h2{font-size: 22px !important; color:#444 !important}
+.sidebar .button{margin-left: 40px !important;padding: 10px 15px 8px !important;font-weight: 900 !important;border-radius: 0px !important;}
+.sidebar .widget h3{background: #ECECEC !important;padding: 5px 10px !important;}
+.aligncenter{margin-bottom: -20px !important;}
+#concretion .post-content p {  margin-top: 15px;margin-bottom: 40px;}
+#concretion h1{margin-left: 10px !important;}
+#hometesti .post-content blockquote {background: transparent !important;border: 0px !important;}
+#hometesti .fusion-testimonials.classic .author {padding: 0px !important;}
+.fusion-content-boxes { margin-bottom: 0px !important;}
+#homecon h2{font-size: 22px !important;color:#2A3990 !important;font-weight: 400 !important;}
+#homeblock2 h2{font-size: 22px !important; color: #444 !important;}
+#homeblock1 h1{font-size: 26px !important;color: #0080C5 !important;margin: 0;}
+.fusion-button.button-1{padding: 12px 20px !important;font-size: 18px !important;background: #67B3E3 !important;border-radius: 0 !important;}
+blockquote img{margin-top: 15px !important;}
+.fusion-tabs.fusion-tabs-1 .nav-tabs li.active a{background-color: #F9F9F9 ! important; border-left: 0px !important}
+.fusion-tabs.vertical-tabs .nav-tabs > li .tab-link{background: #fff !important;}
+#tab .fa {font-size: 19px !important;}
+#blockquote .fa {font-size: 19px !important;}
+#tab.fusion-tabs .nav-tabs li {width: 215px !important;}
+#tab .nav-tabs > li .fusion-tab-heading {color: #777 !important;font-family: Arial,Helvetica,sans-serif !important;font-size: 13px !important;font-weight: 300 !important;}
+#tab .button{padding: 5px 25px 7px !important;line-height: 27px !important;border-radius: 0px !important;}
+.fusion-copyright-notice a:hover { text-decoration: underline; color:#67B3E3 !important }
+.fusion-footer-copyright-area {border-color: #fff !important;padding:30px !important}
+.fusion-footer-widget-area ul li a { border-bottom: 0px !important;padding: 0px !important;} 
+.fusion-footer-widget-area ul li a:hover { text-decoration: underline; color:#67B3E3 !important } 
+.fusion-footer-widget-area .widget_recent_entries li {border-bottom: 0px;}
+.fusion-main-menu > ul > li > a{border-top: 0px !important;margin-left: 0px !important;}
+.fusion-logo img{  margin-top: -0px !important;}
+.sidebar .widget li,.sidebar .widget li a{color:#333333 !important; border:0px !important;padding:0px !important}
+.sidebar .widget li a:hover{text-decoration: underline;}
+.post-content h1 {font-size: 26px !important;line-height: normal !important;}
+.form_table #q14 {display: none !important;}
+.post-content h2 {line-height: normal !important;font-size:22px !important;}
+.fusion-main-menu .current-menu-item > a{ color: #0081C6;}
+.fusion-tabs.vertical-tabs .tab-pane { padding: 0;margin-left: 40px !important; margin-top: -20px !important;}
+.fusion-tabs.vertical-tabs .nav-tabs {width: 21.6%;}
+.fusion-tabs.vertical-tabs .tab-content {width: 78.4%;}
+.fusion-tabs.vertical-tabs .tab-content blockquote{margin: 0 0 20px !important;}
+.fusion-tabs.vertical-tabs .tab-content a:hover{color:#ffffff !important;text-decoration:none;}
+.fusion-tabs.vertical-tabs .nav-tabs > li a:hover{text-decoration:none !important;}
+.fa {color: #000 !important;font-size: 15px !important;}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) { 
+#heaT {padding-top: 8px;margin-left: 0;padding-left: 11px;background: #f2f2f2 none repeat scroll 0 0;height: 54px;list-style-type: none;margin-top: -10px !important;padding-top: 10px;}
+.footer-widgets .widget-container, .page-footer {width: 320px !important;}
+.onecolumn .sc-column.three-fourth, .onecolumn .sc-column.three-fourth-last {width: 270px !important;}
+.tabs-section .tabs-buttons .tab {border: medium none;text-align: left !important;width: 249px !important;}
+ul.line {width: 274px;}
+.sboxes-section .sbox {width: 320px !important;}
+.testimonial {width: 255px !important;}
+.section {width: 100% !important;}
+.logo {float: left;padding-left: 10px;}
+.quick-info > .social-icons, .quick-info > .tagline {display: block;}
+.wrapper {padding-left: 10px !important;}
+.section {padding: 0 0px;width: 100% !important;}
+.testimonials-container {padding: 15px 15px 15px 25px !important;}
+}
+@media screen and (max-width: 480px) {
+.fusion-tabs.vertical-tabs .nav-tabs {width: 100% !important;} 
+#tab.fusion-tabs .nav-tabs li {width: 100% !important;}
+#tab .nav-tabs > li .fusion-tab-heading {color: #777 !important;font-family: Arial,Helvetica,sans-serif !important;font-size: 13px !important;font-weight: 300 important;text-align: left;}
+}
